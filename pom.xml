@@ -25,6 +25,7 @@
     <version>0.1</version>
     <packaging>jar</packaging>
 
+
     <name>Kafka Streams Quickstart :: Java</name>
 
     <properties>
